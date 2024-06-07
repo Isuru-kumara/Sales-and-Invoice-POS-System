@@ -1,0 +1,27 @@
+**Log on to codeastro.com for more projects!***
+
+
+**Developed by Ashraful Rasel**
+
+
+**Check the Website's Post Page for all the Installation Instructions**
+
+
+---Admin Login Details---
+
+Email   : admin@mail.com
+Password: codeastro.com
+
+
+**Check the Website's Post Page for all the Installation Instructions**
+
+php artisan cache:clear
+php artisan route:clear
+php artisan config:clear
+php artisan view:clear
+php artisan event:clear
+php artisan optimize:clear
+
+
+
+
